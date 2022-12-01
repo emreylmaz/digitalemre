@@ -67,7 +67,7 @@ export default function Home() {
                         <p className="text-md py-5 leading-8 text-gray-800 dark:text-gray-200 max-w-xl mx-auto md:text-xl">
                             The self-taught Junior Developer, who started his software life with PHP , is now interested in JavaScript and Java-based technologies and is dedicated to continuous improvement.
                         </p>
-                        <div className="text-5xl flex justify-center gap-16 py-3 text-gray-600 dark:text-gray-400">
+                        <div className="text-5xl flex justify-center gap-16 py-3 text-gray-600 dark:text-gray-400 flex-wrap">
                             <a href="https://github.com/emreylmaz" target="_blank"><AiFillGithub/></a>
                             <a href="https://twitter.com/emreyilmaz_dev" target="_blank"><AiFillTwitterCircle /></a>
                             <a href="https://www.linkedin.com/in/emreyilmazinfo/" target="_blank"><AiFillLinkedin /></a>
